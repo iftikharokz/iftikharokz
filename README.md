@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iftikharokz
 - 👀 I’m interested in AI, Deep learning , Machine learning
 - 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on Deep learning , Machine learning NLP projects
+- 💞️ I’m looking to collaborate on Deep learning , Machine learning NLP ,Back-end Web development projects
 - 📫 How to reach me Email : iftikharhussain2230@gmail.com
 
 <!---
