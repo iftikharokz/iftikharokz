@@ -1,4 +1,4 @@
-#iOS Developer | Swift | SwiftUI | MVVM | API Integration
+# iOS Developer | Swift | SwiftUI | MVVM | API Integration
 
 Passionate and results-driven iOS Developer with 3.5 years of experience in building high-performance mobile applications. Skilled in Swift, SwiftUI, and MVVM architecture, I excel at crafting seamless user experiences and optimizing application performance. With a strong foundation in API integration and in-app purchases, I am eager to contribute innovative solutions to dynamic teams.
 
