@@ -21,15 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
 
 ## ⚙️ What I Do
 
@@ -78,18 +70,14 @@
 
 ## 🛠️ Technical Skills
 
-**Languages & Frameworks:** Swift, SwiftUI, MVVM, UIKit
-
-**Tools & Platforms:** Xcode, GitHub, TestFlight, Instruments
-
-**APIs & Integrations:** RESTful APIs, Firebase, IAP, AdMob, PayPal, MyFatoorah, Stripe, Google Maps, MapKit, Alamofire
-
-**Database & Storage:** CoreData, AppStorage, UserDefaults, Firebase Firestore
-
-**UI & Animations:** Custom Views, AutoLayout, Lottie, Core Animation, SwiftUI Animations
-
-**Performance & Debugging:** Memory Profiling, Instruments, Crashlytics, GCD
-
+| Category | Tools |
+|----------|-------|
+| **Languages** | Swift, SwiftUI, Python |
+| **Architecture** | MVVM |
+| **Backend & DB** | Firebase, CoreData, Firestore, UserDefaults |
+| **APIs** | RESTful, AdMob, StoreKit, PayPal, MyFatoorah, Stripe, Google Maps, Alamofire, MapKit  |
+| **UI & Animation** | SwiftUI Animations, Lottie, AutoLayout, Core Animation |
+| **Tools** | Xcode, Git, GitHub, TestFlight, Instruments, Crashlytics |
 ---
 
 ## 🌍 Industries I've Worked In
