@@ -1,12 +1,52 @@
-# iOS Developer | Swift | SwiftUI | MVVM | API Integration
 
-Passionate and results-driven iOS Developer with 3.5 years of experience in building high-performance mobile applications. Skilled in Swift, SwiftUI, and MVVM architecture, I excel at crafting seamless user experiences and optimizing application performance. With a strong foundation in API integration and in-app purchases, I am eager to contribute innovative solutions to dynamic teams.
+# Hi, I'm Iftikhar Hussain 👋
 
-How to reach me Email : iftikharhussain2230@gmail.com
+### iOS Developer | Swift & SwiftUI | 4+ Years | 1.6M+ App Users
 
-Here is my [LinkedIn](https://www.linkedin.com/in/iftikhar-hussain-16b795177/)
+---
 
-<!---
-iftikharokz/iftikharokz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+I'm a passionate iOS Developer with **4+ years of experience** building 
+high-performance native apps used by **1.6 million+ people** worldwide. 
+I turn ideas into polished, App Store-ready iOS applications.
+
+---
+
+## 🛠️ Tech Stack
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+---
+
+## 💼 What I Do
+
+- 📱 Native iOS app development with **Swift & SwiftUI**
+- 🏗️ Clean **MVVM architecture** for scalable, maintainable code
+- 🔥 **Firebase** integration (Auth, Firestore, Push Notifications)
+- 💰 **AdMob & In-App Purchases** monetization
+- 💳 Payment gateways — **PayPal & MyFatoorah**
+- 🗺️ **MapKit, HealthKit & CoreData** integration
+- 🚀 **App Store** submission & publishing
+
+---
+
+## 🌍 Industries I've Worked In
+
+| 📞 Communication & Caller ID | 📍 GPS & Location Tracking | 🤖 AI & Image Generation |
+|------------------------------|---------------------------|--------------------------|
+| 🔒 VPN & Security | 👶 Kids & Entertainment | 🎨 NFT & Digital Art |
+| 📱 Social Media & Video Tools | 🎙️ Audio & Voice Tools | 🌐 Utilities & Productivity |
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/iftikhar-hussain-16b795177/))
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/iftikharhuss678)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iftikharhussain2230@gmail.com)
+
+---
