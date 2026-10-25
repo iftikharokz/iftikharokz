@@ -11,7 +11,7 @@
 
 🏆 **1.6M+ users** across my published iOS apps on the App Store
 
-📱 **4+ years** building native iOS apps with Swift & SwiftUI
+📱 **5+ years** building native iOS apps with Swift & SwiftUI
 
 🏢 Currently working at **Zoobi Apps**, Islamabad
 
